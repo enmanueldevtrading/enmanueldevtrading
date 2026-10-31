@@ -1,26 +1,21 @@
-# Hola, soy Enmanuel 👋
+# Hola, soy Enmanuel
 
-## Sobre mí
+## Sobre mi
 
-Desarrollador y entusiasta de la programación cuantitativa. Trabajo con Python, análisis de datos y backtesting de estrategias de trading.
+Desarrollador y entusiasta de la programacion cuantitativa y el desarrollo web.
 
 ## Proyectos
 
 ### [TurtleLab](https://github.com/enmanueldevtrading/turtlelab)
-Laboratorio de backtesting cuantitativo para estrategias mecánicas en índices sintéticos de Weltrade.
-
-- 6 estrategias mecánicas (Tortuga, EMA, VWAP)
+Laboratorio de backtesting cuantitativo para estrategias mecanicas en indices sinteticos de Weltrade.
+- 6 estrategias mecanicas (Tortuga, EMA, VWAP)
 - Panel web offline con 5 vistas
-- Monte Carlo y análisis de robustez
+- Monte Carlo y analisis de robustez
 - 25 pruebas automatizadas
-- Sin dependencias de pago
+- Licencia MIT - Gratis para todos
 
-## Tecnologías
-
-- Python 3.14
-- pandas, numpy
-- Git, GitHub
-- MetaTrader 5 (solo descarga de datos)
+### [Don Pepe](https://github.com/enmanueldevtrading/don-pepe)
+Proyecto Don Pepe - propuesta de construccion.
 
 ## Contacto
 
