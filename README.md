@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola, soy Enmanuel 👋
 
-<!--
-**enmanueldevtrading/enmanueldevtrading** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+Desarrollador y entusiasta de la programación cuantitativa. Trabajo con Python, análisis de datos y backtesting de estrategias de trading.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+
+### [TurtleLab](https://github.com/enmanueldevtrading/turtlelab)
+Laboratorio de backtesting cuantitativo para estrategias mecánicas en índices sintéticos de Weltrade.
+
+- 6 estrategias mecánicas (Tortuga, EMA, VWAP)
+- Panel web offline con 5 vistas
+- Monte Carlo y análisis de robustez
+- 25 pruebas automatizadas
+- Sin dependencias de pago
+
+## Tecnologías
+
+- Python 3.14
+- pandas, numpy
+- Git, GitHub
+- MetaTrader 5 (solo descarga de datos)
+
+## Contacto
+
+- GitHub: [@enmanueldevtrading](https://github.com/enmanueldevtrading)
